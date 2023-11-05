@@ -1,8 +1,8 @@
 baseURL = "https://example.com"
-title = "HBS (Hugo Theme Bootstrap) v1"
+title = "Celestial Mind"
 # theme = "hugo-theme-bootstrap" # install via git submodule
 theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
-copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
+copyright = "Copyright © 2016-{year} Garuda. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
