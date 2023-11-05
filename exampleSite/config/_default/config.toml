@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://delicate-liger-23e203.netlify.app/"
 title = "Celestial Mind"
 # theme = "hugo-theme-bootstrap" # install via git submodule
 theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
