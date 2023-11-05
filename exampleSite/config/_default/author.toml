@@ -1,7 +1,7 @@
-name = "HBS (Hugo Bootstrap Theme)"
+name = "Garuda"
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-bio = "Fast, responsive, multipurpose, open source (MIT license) and feature-rich Hugo theme."
-company = 'Company'
+bio = "Floating in space."
+company = 'SpaceMan'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
 location = "Earth"
 # alternatives:
